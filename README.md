@@ -32,4 +32,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Adam Muy (agu21010@byui.edu)
+* Ashton Pieterse
