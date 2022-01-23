@@ -33,3 +33,4 @@ root                    (project root folder)
 ## Authors
 ---
 * Ashton Pieterse
+* Kade Wilson
