@@ -22,6 +22,8 @@ The project files and folders are organized as follows:
 root                    (project root folder)
 +-- hilo                (source code for game)
   +-- game              (specific classes)
+    +-- hilo.py         (Classes for Hilo and what points to award based on input)
+    +-- directory.py    (Classes to play the game and keep and track score and parse input to hil0.py)
   +-- __main__.py       (program entry point)
 +-- README.md           (general info)
 ```
@@ -32,4 +34,5 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Ashton Pieterse
+* Ashton Pieterse (ashtonpieterse.ap@gmail.com)
+* Adam Muy (agu21010@byui.edu)
