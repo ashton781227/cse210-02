@@ -36,3 +36,4 @@ root                    (project root folder)
 ---
 * Ashton Pieterse (ashtonpieterse.ap@gmail.com)
 * Adam Muy (agu21010@byui.edu)
+* Kade Wilson (wil21131@byui.edu)
